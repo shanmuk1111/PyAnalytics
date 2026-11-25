@@ -1,0 +1,21 @@
+date,category,description,amount
+2026-11-01,Food,Breakfast,120
+2026-11-01,Travel,Bus fare,40
+2026-11-02,Food,Lunch,180
+2026-11-02,Shopping,Notebook,95
+2026-11-03,Bills,Mobile recharge,299
+2026-11-03,Travel,Auto ride,110
+2026-11-04,Food,Dinner,220
+2026-11-05,Shopping,T-shirt,650
+2026-11-05,Food,Snacks,75
+2026-11-06,Education,Python book,450
+2026-11-07,Travel,Metro ticket,60
+2026-11-08,Food,Lunch,160
+2026-11-09,Entertainment,Movie ticket,250
+2026-11-10,Bills,Electricity bill,980
+2026-11-11,Food,Dinner,210
+2026-11-12,Shopping,Headphones,1250
+2026-11-13,Travel,Cab ride,190
+2026-11-14,Education,Online course,799
+2026-11-15,Food,Groceries,540
+2026-11-16,Health,Pharmacy,320
