@@ -1,0 +1,65 @@
+PyAnalytics loaded successfully.
+Valid expense rows: 21
+Skipped invalid/blank rows: 3
+
+========== PYANALYTICS EXPENSE TRACKER ==========
+1. Show all expenses
+2. Show totals by category
+3. Show biggest expense
+4. Add expense
+5. Search by description
+6. Export report (JSON)
+7. Quit
+Enter your choice (1-7): 
+TOTALS BY CATEGORY
+----------------------------------
+CATEGORY             AMOUNT (INR)
+----------------------------------
+Bills                     1279.00
+Education                 1249.00
+Entertainment              250.00
+Food                      1590.00
+Health                     320.00
+Shopping                  1995.00
+Travel                     400.00
+----------------------------------
+OVERALL TOTAL             7083.00
+
+========== PYANALYTICS EXPENSE TRACKER ==========
+1. Show all expenses
+2. Show totals by category
+3. Show biggest expense
+4. Add expense
+5. Search by description
+6. Export report (JSON)
+7. Quit
+Enter your choice (1-7): 
+Enter a description keyword: 
+SEARCH RESULTS (1 found)
+----------------------------------------------------------------------------
+DATE         CATEGORY       DESCRIPTION                 AMOUNT (INR)
+----------------------------------------------------------------------------
+2026-11-06   Education      Python book                   450.00
+
+========== PYANALYTICS EXPENSE TRACKER ==========
+1. Show all expenses
+2. Show totals by category
+3. Show biggest expense
+4. Add expense
+5. Search by description
+6. Export report (JSON)
+7. Quit
+Enter your choice (1-7): 
+Report exported to: report.json
+Overall total: INR 7083.00
+Categories exported: 7
+
+========== PYANALYTICS EXPENSE TRACKER ==========
+1. Show all expenses
+2. Show totals by category
+3. Show biggest expense
+4. Add expense
+5. Search by description
+6. Export report (JSON)
+7. Quit
+Enter your choice (1-7): Thank you for using PyAnalytics. Goodbye!

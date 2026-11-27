@@ -1,0 +1,14 @@
+{
+    "currency": "INR",
+    "expense_count": 21,
+    "overall_total": 7083.0,
+    "category_totals": {
+        "Bills": 1279.0,
+        "Education": 1249.0,
+        "Entertainment": 250.0,
+        "Food": 1590.0,
+        "Health": 320.0,
+        "Shopping": 1995.0,
+        "Travel": 400.0
+    }
+}
